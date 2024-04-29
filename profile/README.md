@@ -1,4 +1,3 @@
-### Hi there
 <div align="center">
 
 <b>GPL open-source ECU</b>
